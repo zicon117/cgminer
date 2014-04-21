@@ -1,0 +1,4 @@
+cgminer
+=======
+
+cgminer
